@@ -1,0 +1,73 @@
+NBA Stats
+
+
+TEAM STATS:
+
+PTS_home → Points made by home team
+FG_PCT_home → Field Goal Percentage of the home team(percentage of shots made/ shots attempted, includes 3-points shots but doesn’t include free throws)
+FT_PCT_home →Free Throw Percentage of the home team(percentage of free throws made/ free throws  attempted, not included in FG_PCT)
+FG3_PCT → 3-Points  shots Percentage of the home team(percentage of 3-Points  shots made/ 3-Points  shots   attempted, included in FG_PCT)
+AST_home→ Assists made by home team
+REB_home→ Rebounds made by home team
+
+PTS_away → Points made by away team
+FG_PCT_away → Field Goal Percentage of the away team(percentage of shots made/ shots attempted, includes 3-points shots but doesn’t include free throws)
+FT_PCT_away →Free Throw Percentage of the away team(percentage of free throws made/ free throws  attempted, not included in FG_PCT)
+FG3_PCT → 3-Points  shots Percentage of the away team(percentage of 3-Points  shots made/ 3-Points  shots   attempted, included in FG_PCT)
+AST_away→ Assists made by away team
+REB_away→ Rebounds made by away team
+
+
+PLAYERS’ STATS:
+
+MIN→Minutes played
+
+FGM→ Field Goals Made (includes 3-points shots but doesn’t include free throws)
+FGA→ Field Goals Attempted (includes 3-points shots but doesn’t include free throws)
+FG_PCT→ FGM/FGA
+
+FG3M→ 3-points shots Made (included in FGM)
+FG3A→ 3-points shots Attempted (included in  FGA)
+FG3_PCT→ FG3M/FG3A
+
+FTM→ Free Throws Made (not included in FGM)
+FTA→  Free Throws Attempted (not included in  FGA)
+FTM_PCT→ FTM/FTA
+
+
+OREB→ Offensive Rebounds
+DREB→ Defensive Rebounds
+REB→ OREB+DREB (total rebounds)
+
+AST→ Assists
+
+STL→ Steals
+
+BLK→ Blocks
+
+TO→ Turn-Overs
+
+PF→ Personal Fouls
+
+PTS→ Points-Made
+
+PLUS_MINUS→ (Points made by the team while the player is on the court) – (Points made by the opponents’ team while the player is in the court)
+
+
+
+
+MEANING OF CERTAIN TERMS:
+
+Field Goals→ when you shoot the ball in the basket. A normal field goal if made gives 2points to the team; if it is shot behind the 3-point line is 3 points. In certain circumstances a player can shoot free throws (similar to penalties in football), wich is 1 point
+
+ASSISTS → A pass after which a player immediately scores
+
+REBOUND→ Catching the ball after a shot is missed. The ball can be taken by team on offense (Offensive Rebound) or by the team on defense (Defensive rebound)
+
+STEAL → When a player in defense steals the ball to the other team
+
+BLOCK→ When a shot is blocked by a defending player
+
+TURN-Over → When a player loses the ball
+
+
